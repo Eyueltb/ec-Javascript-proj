@@ -1,0 +1,13 @@
+#result-content {
+    font-size: 72px;
+}
+#deck-content{
+    font-size: 72px;
+}
+span {
+    display: inline-block;
+     width: 230px;
+}
+#scoreboard-content{
+    font-size: 57px;
+}

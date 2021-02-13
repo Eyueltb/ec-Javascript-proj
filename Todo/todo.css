@@ -1,0 +1,9 @@
+h1{ text-align: center; }
+ul {list-style: none;}
+input[type="checkbox"] { margin: 0px 10px; }
+.remove {
+    float: right;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.completed {  text-decoration: line-through; }
