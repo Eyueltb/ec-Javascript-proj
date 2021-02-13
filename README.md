@@ -1,6 +1,6 @@
 # ec-Javascript-proj
 
-This EC school javascript project that includes, for instance Todo, Zoo, Blackjack, Blackjack with Class etc, 
+This is EC-school javascript projects that includes,  Zoo, Blackjack, Blackjack with Class etc, 
 
 ## Installation
 
